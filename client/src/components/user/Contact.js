@@ -12,12 +12,12 @@ const Contact = () => {
               <ul className="contact-list">
                 <li>
                   <a
-                    href="mailto:support@website.com"
+                    href="mailto:yashilbusa333@gmail.com"
                     className="contact-link"
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-mail-line" />
-                    <span>: support@website.com</span>
+                    <span>: yashilbusa333@gmail.com</span>
                   </a>
                 </li>
                 <li>
@@ -32,12 +32,12 @@ const Contact = () => {
                 </li>
                 <li>
                   <a
-                    href="tel:+0011234567890"
+                    href="tel:+91 9726535839"
                     className="contact-link"
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-phone-line" />
-                    <span>: (+001) 123 456 7890</span>
+                    <span>: +91 9726535839</span>
                   </a>
                 </li>
                 <li>
@@ -50,7 +50,7 @@ const Contact = () => {
                     >
                       <i className="ri-time-line" />
                     </a>
-                    <span>: 9:00 AM - 6:00 PM</span>
+                    <span>: 9:00 AM - 5:00 PM</span>
                   </div>
                 </li>
                 <li>
@@ -60,7 +60,7 @@ const Contact = () => {
                     style={{ textDecoration: "none" }}
                   >
                     <i className="ri-user-location-line" />
-                    <span>: 1644 Deer Ridge Drive Rochelle Park, NJ 07662</span>
+                    <span>: Charusat University Changa Gujarat</span>
                   </a>
                 </li>
               </ul>

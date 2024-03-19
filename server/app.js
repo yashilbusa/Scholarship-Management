@@ -23,7 +23,7 @@ const db = "mongodb+srv://yashilbusa:vfyKOE04x1U0gY4v@cluster0.m5upb5u.mongodb.n
 mongoose
   .connect(db)
   .then(() => {
-    console.log("Connection Successful");
+    console.log("MongoDB Connection Successful");
   })
   .catch((err) => console.log("error : ", err));
 

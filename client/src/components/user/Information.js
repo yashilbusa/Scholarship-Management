@@ -1,14 +1,15 @@
-import React  from 'react'
+import React from 'react'
 
 const Information = () => {
   return (
     <>
-    <section id="about_us">
+      <section id="about_us">
         <div className="container">
           <br />
           <div className="row" >
             <div className="col-6" data-aos="fade-up" data-aos-duration="1000">
               <h3>Eligibility Criteria</h3>
+              <br></br>
               <ul>
                 <li>
                   <i className="ri-arrow-right-line" />
@@ -51,7 +52,12 @@ const Information = () => {
               </ul>
             </div>
             <div className="col-6 " data-aos="fade-up" data-aos-duration="2000">
+
+              <br></br>
+              <br></br>
               <h3>Application Process</h3>
+              <br></br>
+
               <ul>
                 <li>
                   <i className="ri-arrow-right-line" />
